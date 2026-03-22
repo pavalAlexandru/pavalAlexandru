@@ -1,6 +1,7 @@
 ## 💫 About Me:
 
 Hi 👋, I'm pavalAlexadnru!
+
 🌱 A second year student at UBB FMI following the Math and CS course.
 
 🚀 Currently exploring the depths of low-level architecture, rendering pixels through graphics programming 🎨, and tinkering with embedded systems 🪛.
