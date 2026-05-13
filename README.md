@@ -6,7 +6,7 @@ Hi 👋, I'm pavalAlexadnru!
 
 🚀 Currently exploring the depths of low-level architecture, rendering pixels through graphics programming 🎨, and tinkering with embedded systems 🪛.
 
-* Current Project : c-http-server
+* Current Project : C-Config-Parser
 
 ---
 
