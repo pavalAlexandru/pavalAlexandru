@@ -1,12 +1,12 @@
 ## 💫 About Me:
 
-Hi 👋, I'm pavalAlexadnru!
+Hi 👋, I'm Andu!
 
 🌱 A second year student at UBB FMI following the Math and CS course.
 
-🚀 Currently exploring the depths of low-level architecture, rendering pixels through graphics programming 🎨, and tinkering with embedded systems 🪛.
+⚙️ Wiring up low-level systems | 🎨 Rendering graphics & game dev | 👁️ Exploring computer vision.
 
-* Current Project : C-Config-Parser
+* Current Project : C Priority Task Scheduler
 
 ---
 
