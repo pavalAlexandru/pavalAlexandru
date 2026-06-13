@@ -4,7 +4,7 @@ Hi 👋, I'm Andu!
 
 🌱 A second year student at UBB FMI following the Math and CS course.
 
-⚙️ Wiring up low-level systems | 🎨 Rendering graphics & game dev | 👁️ Exploring computer vision.
+⚙️ Wiring up low-level systems | 🎨 Rendering graphics & game dev
 
 * Current Project : C Priority Task Scheduler
 
