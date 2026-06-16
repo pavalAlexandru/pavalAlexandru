@@ -6,7 +6,7 @@ Hi 👋, I'm Andu!
 
 ⚙️ Wiring up low-level systems | 🎨 Rendering graphics & game dev
 
-* Current Project : C Priority Task Scheduler
+* Current Project : -
 
 ---
 
