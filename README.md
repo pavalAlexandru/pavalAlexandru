@@ -6,7 +6,7 @@ Hi 👋, I'm Andu!
 
 ⚙️ Wiring up low-level systems | 🎨 Rendering graphics & game dev | 🐍 Data Science & ML beginner
 
-* Current Project : Pong
+* Current Project : -
 
 ---
 
