@@ -4,9 +4,7 @@ Hi 👋, I'm Andu!
 
 🌱 A second year student at UBB FMI following the Math and CS course.
 
-⚙️ Wiring up low-level systems | 🎨 Rendering graphics & game dev | 🐍 Data Science & ML beginner
-
-* Current Project : -
+* Current Project : Tetris 
 
 ---
 
