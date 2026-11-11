@@ -2,7 +2,7 @@
 
 Hi 👋, I'm Andu!
 
-🌱 A second year student at UBB FMI following the Math and CS course.
+🌱 A last year student at UBB FMI following the Math and CS course.
 
 * Current Project : - 
 
